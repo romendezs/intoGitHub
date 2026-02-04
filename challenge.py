@@ -13,3 +13,4 @@ def to_camel_case(text):
     return "".join(result)
 
 print(to_camel_case("hola_Esto_es_una_prueba"))
+print("Hola")
